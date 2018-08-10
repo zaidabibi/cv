@@ -114,7 +114,7 @@ background: #E24040;
     bottom: 20px;
     right: 20px;
     z-index: 5;
-	background: #CC4646;
+	background: #070364;
 }
 .topHome .fa-2x {
 font-size: 20px;
@@ -126,16 +126,16 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: black;
+    background:#60715e;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #60715e ;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #CC4646;
-    background-color: #CC4646;
+    border-color: #070364;
+    background-color: #070364;
 }
 .header .navbar {
 margin: 0;
@@ -224,11 +224,11 @@ background: none;
     padding: 16px 15px;
     line-height: 18px;
     height: 50px;
-    /*color:#CC4646;*/;
+
 }
 
 .navbar-brand b {
-    color: #fff;
+    color: #070364;
 	font-family: 'Pacifico', cursive;
 	font-weight:400;
 }
@@ -275,6 +275,7 @@ background: none;
     width: 100%;
     height: auto;
     padding: 30px 0;
+    background-color: #60715e;
 }
 
 .noPadd {
@@ -292,7 +293,7 @@ background: none;
     }
 
 .page-section h2 {
-    color: #CC4646;
+    color: #070364;
 }
 
 .page-section p {
@@ -679,7 +680,7 @@ display: inherit;
 }
 
 #portfolio {
-    background:rgb(24, 24, 24);
+    background:#60715e;
 }
 
     #portfolio img {
